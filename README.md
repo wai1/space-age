@@ -1,5 +1,7 @@
 # Space Age
 
+Please note: I wrote the space_age.cpp and space_age.h files. I did not write space_age_test.cpp file. Thanks, Walt
+
 Given an age in seconds, calculate how old someone would be on:
 
    - Mercury: orbital period 0.2408467 Earth years
